@@ -1,0 +1,14 @@
+C:\Users\yashi\source\repos\MVCCountries\MVCCountries\bin\Debug\netcoreapp3.1\MVCCountries.exe
+C:\Users\yashi\source\repos\MVCCountries\MVCCountries\bin\Debug\netcoreapp3.1\MVCCountries.deps.json
+C:\Users\yashi\source\repos\MVCCountries\MVCCountries\bin\Debug\netcoreapp3.1\MVCCountries.runtimeconfig.json
+C:\Users\yashi\source\repos\MVCCountries\MVCCountries\bin\Debug\netcoreapp3.1\MVCCountries.runtimeconfig.dev.json
+C:\Users\yashi\source\repos\MVCCountries\MVCCountries\bin\Debug\netcoreapp3.1\MVCCountries.dll
+C:\Users\yashi\source\repos\MVCCountries\MVCCountries\bin\Debug\netcoreapp3.1\MVCCountries.pdb
+C:\Users\yashi\source\repos\MVCCountries\MVCCountries\obj\Debug\netcoreapp3.1\MVCCountries.csproj.AssemblyReference.cache
+C:\Users\yashi\source\repos\MVCCountries\MVCCountries\obj\Debug\netcoreapp3.1\MVCCountries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashi\source\repos\MVCCountries\MVCCountries\obj\Debug\netcoreapp3.1\MVCCountries.AssemblyInfoInputs.cache
+C:\Users\yashi\source\repos\MVCCountries\MVCCountries\obj\Debug\netcoreapp3.1\MVCCountries.AssemblyInfo.cs
+C:\Users\yashi\source\repos\MVCCountries\MVCCountries\obj\Debug\netcoreapp3.1\MVCCountries.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\MVCCountries\MVCCountries\obj\Debug\netcoreapp3.1\MVCCountries.dll
+C:\Users\yashi\source\repos\MVCCountries\MVCCountries\obj\Debug\netcoreapp3.1\MVCCountries.pdb
+C:\Users\yashi\source\repos\MVCCountries\MVCCountries\obj\Debug\netcoreapp3.1\MVCCountries.genruntimeconfig.cache
